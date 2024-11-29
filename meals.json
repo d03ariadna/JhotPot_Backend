@@ -1,0 +1,426 @@
+[
+    {"FOOD":"FOOD"},
+    {
+    "name": "Chicken Enchilada Casserole",
+    "preparationTime": 150,
+    "calories": 700,
+    "servings": 5,
+    "tags": ["meat", "casserole", "mexican"],
+    "description": "A hearty and cheesy casserole layered with tender chicken, flavorful enchilada sauce, and melty Monterey Jack cheese. The corn tortillas add a slight crunch to each bite, complementing the creamy and savory sauce. This dish is a comforting blend of classic enchilada flavors, perfect for sharing.",
+    "ingredients": [
+        {
+            "ingredientId": "Pretzels",
+            "quantity":"14",
+            "unit": "oz"
+        },
+        {
+            "ingredientId": "67272ad2c408836bafbaa7d6",
+            "quantity":"3",
+            "unit": "pz"
+        },
+        {
+            "ingredientId": "67272ad2c408836bafbaa721",
+            "quantity":"6",
+            "unit": "pz"
+        },
+        {
+            "ingredientId": "67272ad2c408836bafbaa703",
+            "quantity":"2",
+            "unit": "pz"
+        }
+    ],
+    "steps": [
+        " Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot.",
+        "Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom.", 
+        "Remove chicken from the pot and shred with two forks. Preheat oven to 375 F degrees. Start layering the casserole.",
+        "Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across.",
+        "Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese.",
+        "Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.",
+        "Bake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top. Serve warm."
+        ],
+    "images": ["https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg"],
+    "category": "food",
+    "chefId": "67270a532a7a507f23c993c6"
+    },
+    {
+        "name": "Gohan Rice",
+        "preparationTime": 60,
+        "calories": 450,
+        "servings": 2,
+        "tags": ["easy", "japanese"],
+        "description": "A simple yet flavorful Japanese rice dish, featuring perfectly cooked sushi rice seasoned with mirin for a hint of sweetness. The addition of pickle juice brings a slight tang, while the spring onions add a fresh crunch, making it a light and versatile side dish to accompany a variety of meals.",
+        "ingredients": [
+            {
+                "ingredientId": "67272ad2c408836bafbaa901",
+                "quantity":"300",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa866",
+                "quantity":"1",
+                "unit": "tbs"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa8f8",
+                "quantity":"50",
+                "unit": "ml"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7df",
+                "quantity":"3",
+                "unit": "pz"
+            }
+        ],
+        "steps": [
+            "Rinsing and soaking your rice is key to achieving the perfect texture. Measure the rice into a bowl, cover with cold water, then use your fingers to massage the grains of rice – the water will become cloudy.",
+            "Drain and rinse again with fresh water. Repeat five more times until the water stays clear.", 
+            "Tip the rinsed rice into a saucepan with 400ml water, or 200ml dashi and 200ml water, bring to the boil, then turn down the heat to a low simmer, cover with a tight-fitting lid with a steam hole and cook for 15 mins.",
+            "Remove from the heat and leave to sit for another 15 mins, then stir through the mirin. Remove the lid and give it a good stir.",
+            "Serve with any or all of the optional toppings."
+        ],
+        "images": ["https://www.themealdb.com/images/media/meals/kw92t41604181871.jpg"],
+        "category": "food",
+        "chefId": "67270e1a61b9e2e2c585edda"
+    },
+    {
+        "name": "Summer Pistou",
+        "preparationTime": 80,
+        "calories": 250,
+        "servings": 3,
+        "tags": ["easy", "fit", "french"],
+        "description": "A vibrant and refreshing vegetable soup, brimming with seasonal vegetables like zucchini, tomatoes, and green beans. Enhanced with cannellini beans for a creamy texture, this dish is finished with a drizzle of pistou, a basil and garlic sauce that infuses the soup with a fragrant, herbaceous flavor. Perfect for a light summer meal.",
+        "ingredients": [
+            {
+                "ingredientId": "67272ad2c408836bafbaa82a",
+                "quantity":"1",
+                "unit": "tbs"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa77f",
+                "quantity":"2",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa856",
+                "quantity":"1",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7f9",
+                "quantity":"1",
+                "unit": "L"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa6f1",
+                "quantity":"400",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa760",
+                "quantity":"200",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7ee",
+                "quantity":"3",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa753",
+                "quantity":"3",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa6d6",
+                "quantity":"1",
+                "unit": "pack"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7a4",
+                "quantity":"40",
+                "unit": "g"
+            }
+        ],
+        "steps": [
+            "Heat the oil in a large pan and fry the leeks and courgette for 5 mins to soften.",
+            "Pour in the stock, add three-quarters of the haricot beans with the green beans, half the tomatoes, and simmer for 5-8 mins until the vegetables are tender.",
+            "Meanwhile, blitz the remaining beans and tomatoes, the garlic and basil in a food processor (or in a bowl with a stick blender) until smooth, then stir in the Parmesan.",
+            "Stir the sauce into the soup, cook for 1 min, then ladle half into bowls or pour into a flask for a packed lunch."
+        ],
+        "images": ["https://www.themealdb.com/images/media/meals/rqtxvr1511792990.jpg"],
+        "category": "food",
+        "chefId": "67270e1a61b9e2e2c585edda"
+    },
+
+    {"SNACKS":"SNACKS"},
+    {
+        "name": "Peach & Blueberry Grunt",
+        "preparationTime": 80,
+        "calories": 250,
+        "servings": 2,
+        "tags": ["easy", "fruity", "american"],
+        "description": "A delightful, warm dessert combining juicy peaches and plump blueberries, topped with a light biscuit layer that soaks up the sweet fruit juices. The hint of orange zest adds a fresh citrus note, enhancing the natural flavors of the fruits. Served with a scoop of ice cream, this comforting treat is a wonderful blend of textures and fruity sweetness.",
+        "ingredients": [
+            {
+                "ingredientId": "67272ad2c408836bafbaa813",
+                "quantity":"1",
+                "unit": "tsp"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa79e",
+                "quantity":"Juice of 2",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa79e",
+                "quantity":"Zest of 1",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa6f6",
+                "quantity":"2",
+                "unit": "tbs"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa853",
+                "quantity":"6",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa845",
+                "quantity":"250",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7d1",
+                "quantity":"200",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa6ed",
+                "quantity":"50",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa794",
+                "quantity":"100",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa714",
+                "quantity":"1",
+                "unit": "tsp"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa78e",
+                "quantity":"6",
+                "unit": "tbs"
+            }
+        ],
+        "steps": [
+            "Heat oven to 190C/170C fan/gas 5. Butter a wide shallow ovenproof dish.",
+            "Blend the cornflour with the orange zest and juice, and put in a large pan with the sugar. Halve, stone and slice the peaches and add to the pan.", 
+            "Bring slowly to the boil, stirring gently until the sauce is shiny and thickened, about 3-4 mins. Remove from the heat, stir in the blueberries and tip into the prepared dish.",
+            "Tip the flour into a mixing bowl and add the 50g butter. Rub the butter into the flour until it resembles fine breadcrumbs, then stir in half the sugar.",
+            "Mix the remaining sugar with the cinnamon and set aside. Add the milk to the dry ingredients and mix to a soft dough. Turn out onto a lightly floured surface and knead briefly.",
+            "Roll out to an oblong roughly 16 x 24cm. Brush with melted butter and sprinkle evenly with the spicy sugar. Roll up from one long side and cut into 12 slices.",
+            "Arrange around the top of the dish, leaving the centre uncovered.Bake for 20-25 mins, until the topping is crisp and golden.",
+            "Serve warm."
+            ],
+        "images": ["https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg"],
+        "category": "dessert",
+        "chefId": "67270a532a7a507f23c993c6"
+    },
+    {
+        "name": "Pancakes",
+        "preparationTime": 45,
+        "calories": 300,
+        "servings": 5,
+        "tags": ["easy", "fruity", "american", "breakfast"],
+        "description": "Fluffy and golden pancakes, perfect for a classic breakfast or a sweet treat. These pancakes have a light, airy texture and a subtle richness from eggs and milk. Topped with fresh berries like raspberries and blueberries, and drizzled with syrup, they offer a delightful balance of sweetness and tartness in every bite.",
+        "ingredients": [
+            {
+                "ingredientId": "67272ad2c408836bafbaa746",
+                "quantity":"100",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa739",
+                "quantity":"2",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa78e",
+                "quantity":"300",
+                "unit": "ml"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7e5",
+                "quantity":"1",
+                "unit": "tbs"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7e3",
+                "quantity":"1",
+                "unit": "tsp"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa844",
+                "quantity":"To serve",
+                "unit": ""
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa845",
+                "quantity":"To serve",
+                "unit": ""
+            }
+        ],
+        "steps": [
+            "Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter.",
+            "Set aside for 30 mins to rest if you have time, or start cooking straight away.", 
+            "Set a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper.",
+            "When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go.",
+            "Serve with lemon wedges and sugar, or your favourite filling.",
+            "Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months."
+        ],
+        "images": ["https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg"],
+        "category": "dessert",
+        "chefId": "67270e1a61b9e2e2c585edda"
+    },
+    {
+        "name": "Chocolate Gateau",
+        "preparationTime": 120,
+        "calories": 600,
+        "servings": 6,
+        "tags": ["chocolate", "french"],
+        "description": "A rich and decadent chocolate cake with a melt-in-your-mouth texture, featuring the intense flavor of dark chocolate. This cake has a delicate, slightly crisp crust and a moist, fudgy center. It’s simple yet elegant, dusted with a light coating of powdered sugar, making it perfect for chocolate lovers.",
+        "ingredients": [
+            {
+                "ingredientId": "67272ad2c408836bafbaa7b1",
+                "quantity":"250",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa6ed",
+                "quantity":"175",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa78e",
+                "quantity":"2",
+                "unit": "tbs"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa739",
+                "quantity":"5",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa75d",
+                "quantity":"175",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa746",
+                "quantity":"125",
+                "unit": "g"
+            }
+        ],
+        "steps": [
+            "Preheat the oven to 180°C/350°F/Gas Mark 4.",
+            "Grease and line the base of an 8 in round spring form cake tin with baking parchment Break the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts.",
+            "Place the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy.", 
+            "Gradually beat in the eggs, adding a little flour if the mixture begins to curdle. Fold in the remaining flour with the cooled, melted chocolate and milk. Mix until smooth.",
+            "Spread the mixture into the cake tin and bake for 50-55 mins or until firm in the centre and a skewer comes out cleanly.",
+            "Cool for 10 minutes, then turn out and cool completely."
+        ],
+        "images": ["https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg"],
+        "category": "dessert",
+        "chefId": "67270a532a7a507f23c993c6"
+    },
+    
+    {"DRINKS":"DRINKS"},
+    {
+        "name": "Gin Squirt",
+        "preparationTime": 25,
+        "calories": 150,
+        "servings": 2,
+        "tags": ["easy", "fruity", "japanese"],
+        "description": "The Gin Squirt is a refreshing cocktail that combines the crispness of gin with a hint of sweetness from grenadine and powdered sugar.  Top with carbonated water for a fizzy touch, and garnish with fresh pineapple chunks and strawberries for a burst of fruity flavor and vibrant color. This drink is perfect for a bright, summery vibe and is as delightful to look at as it.",
+        "ingredients": [
+            {
+                "ingredientId": "67272ad2c408836bafbaa813",
+                "quantity":"1",
+                "unit": "tsp"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa79e",
+                "quantity":"Juice of 2",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa79e",
+                "quantity":"Zest of 1",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa6f6",
+                "quantity":"2",
+                "unit": "tbs"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa853",
+                "quantity":"6",
+                "unit": "pz"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa845",
+                "quantity":"250",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa7d1",
+                "quantity":"200",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa6ed",
+                "quantity":"50",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa794",
+                "quantity":"100",
+                "unit": "g"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa714",
+                "quantity":"1",
+                "unit": "tsp"
+            },
+            {
+                "ingredientId": "67272ad2c408836bafbaa78e",
+                "quantity":"6",
+                "unit": "tbs"
+            }
+        ],
+        "steps": [
+            "Heat oven to 190C/170C fan/gas 5. Butter a wide shallow ovenproof dish.",
+            "Blend the cornflour with the orange zest and juice, and put in a large pan with the sugar. Halve, stone and slice the peaches and add to the pan.", 
+            "Bring slowly to the boil, stirring gently until the sauce is shiny and thickened, about 3-4 mins. Remove from the heat, stir in the blueberries and tip into the prepared dish.",
+            "Tip the flour into a mixing bowl and add the 50g butter. Rub the butter into the flour until it resembles fine breadcrumbs, then stir in half the sugar.",
+            "Mix the remaining sugar with the cinnamon and set aside. Add the milk to the dry ingredients and mix to a soft dough. Turn out onto a lightly floured surface and knead briefly.",
+            "Roll out to an oblong roughly 16 x 24cm. Brush with melted butter and sprinkle evenly with the spicy sugar. Roll up from one long side and cut into 12 slices.",
+            "Arrange around the top of the dish, leaving the centre uncovered.Bake for 20-25 mins, until the topping is crisp and golden.",
+            "Serve warm."
+            ],
+        "images": ["https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg"],
+        "category": "dessert",
+        "chefId": "67270a532a7a507f23c993c6"
+    },
+
+    {"CATEGORIES": "CATEGORIES"},
+    {"countries": ["chinese", "american", "mexican", "japanese", "french", "russian", "italian"]},
+    {"category": ["food", "dessert", "drink"]},
+    {"tags": ["easy", "fit", "fruity", "veggie", "breakfast", "dinner", "pasta", "beef", "pork", "chicken", "seafood", "dessert"]}
+]
